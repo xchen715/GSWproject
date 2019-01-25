@@ -1,5 +1,6 @@
 # GSWproject
-This project aims to predict final game score according to half-time box score. 
+This project aims to set a prediction model to forecast GSW final game score according to half-time box score. 
+The whole process is automated and need to be luanch on a virtual machine.
 
 Following is the flow of the project.
 
